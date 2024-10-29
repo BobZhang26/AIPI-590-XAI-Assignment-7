@@ -1,5 +1,6 @@
 [![Python Application Test with Github Actions](https://github.com/BobZhang26/Bob_PythonTemplate1/actions/workflows/cicd.yml/badge.svg)](https://github.com/BobZhang26/Bob_PythonTemplate1/actions/workflows/cicd.yml)
 ## AIPI 590 - XAI | Assignment 7
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/BobZhang26/AIPI-590-XAI-Assignment-7/blob/main/AIPI_590_XAI_Assignment_7.ipynb)
 ### Instructions
 Develop a hypothesis and design a study using explainable deep learning methods to test your hypothesis. You can use any deep learning method discussed during the lecture: concept activation vectors, feature visualization, saliency maps, integrated gradients, or occlusion methods.
 
